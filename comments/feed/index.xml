@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Comments for My WordPress	</title>
+	<atom:link href="http://localhost/myproject/wordpress/comments/feed/" rel="self" type="application/rss+xml" />
+	<link>http://phamnguyenducthanh.github.io/Myshop</link>
+	<description>Một trang web mới sử dụng WordPress</description>
+	<lastBuildDate>Tue, 29 Jun 2021 03:01:17 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7.2</generator>
+	<item>
+		<title>
+		Comment on GUCCI x AC/DC Printed Cotton-Jersey T-Shirt by Phạm Nguyễn Đức Thành		</title>
+		<link>http://phamnguyenducthanh.github.io/Myshop/product/gucci-x-ac-dc-printed-cotton-jersey-t-shirt/#comment-11</link>
+
+		<dc:creator><![CDATA[Phạm Nguyễn Đức Thành]]></dc:creator>
+		<pubDate>Thu, 24 Jun 2021 07:48:01 +0000</pubDate>
+		<guid isPermaLink="false">http://phamnguyenducthanh.github.io/Myshop/?post_type=product&#038;p=115#comment-11</guid>
+
+					<description><![CDATA[gútt gútt]]></description>
+			<content:encoded><![CDATA[<p>gútt gútt</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Comment on Bob Marley Smoking Zion T-Shirt by Phạm Nguyễn Đức Thành		</title>
+		<link>http://phamnguyenducthanh.github.io/Myshop/product/bob-marley-smoking-zion-t-shirt/#comment-10</link>
+
+		<dc:creator><![CDATA[Phạm Nguyễn Đức Thành]]></dc:creator>
+		<pubDate>Thu, 24 Jun 2021 07:47:38 +0000</pubDate>
+		<guid isPermaLink="false">http://phamnguyenducthanh.github.io/Myshop/?post_type=product&#038;p=121#comment-10</guid>
+
+					<description><![CDATA[gút gút]]></description>
+			<content:encoded><![CDATA[<p>gút gút</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Comment on AC/DC Who Made Who T-Shirt by Phạm Nguyễn Đức Thành		</title>
+		<link>http://phamnguyenducthanh.github.io/Myshop/product/ac-dc-who-made-who-t-shirt/#comment-9</link>
+
+		<dc:creator><![CDATA[Phạm Nguyễn Đức Thành]]></dc:creator>
+		<pubDate>Thu, 24 Jun 2021 07:47:03 +0000</pubDate>
+		<guid isPermaLink="false">http://phamnguyenducthanh.github.io/Myshop/?post_type=product&#038;p=140#comment-9</guid>
+
+					<description><![CDATA[good good]]></description>
+			<content:encoded><![CDATA[<p>good good</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Comment on ACDC Brand: Đậm chất Rock by Phạm Nguyễn Đức Thành		</title>
+		<link>http://phamnguyenducthanh.github.io/Myshop/acdc/#comment-5</link>
+
+		<dc:creator><![CDATA[Phạm Nguyễn Đức Thành]]></dc:creator>
+		<pubDate>Fri, 11 Jun 2021 05:12:05 +0000</pubDate>
+		<guid isPermaLink="false">http://phamnguyenducthanh.github.io/Myshop/?p=91#comment-5</guid>
+
+					<description><![CDATA[This is my post. Thank for reading &lt;3]]></description>
+			<content:encoded><![CDATA[<p>This is my post. Thank for reading &lt;3</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Comment on Thời trang: 2hand by Phạm Nguyễn Đức Thành		</title>
+		<link>http://phamnguyenducthanh.github.io/Myshop/2hand/#comment-4</link>
+
+		<dc:creator><![CDATA[Phạm Nguyễn Đức Thành]]></dc:creator>
+		<pubDate>Fri, 11 Jun 2021 05:11:21 +0000</pubDate>
+		<guid isPermaLink="false">http://phamnguyenducthanh.github.io/Myshop/?p=93#comment-4</guid>
+
+					<description><![CDATA[This is my post. Thank for reading &lt;3]]></description>
+			<content:encoded><![CDATA[<p>This is my post. Thank for reading &lt;3</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

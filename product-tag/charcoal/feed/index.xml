@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Charcoal &#8211; My WordPress</title>
+	<atom:link href="http://localhost/myproject/wordpress/product-tag/charcoal/feed/" rel="self" type="application/rss+xml" />
+	<link>http://phamnguyenducthanh.github.io/Myshop</link>
+	<description>Một trang web mới sử dụng WordPress</description>
+	<lastBuildDate>Thu, 24 Jun 2021 07:47:03 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7.2</generator>
+	<item>
+		<title>AC/DC Who Made Who T-Shirt</title>
+		<link>http://phamnguyenducthanh.github.io/Myshop/product/ac-dc-who-made-who-t-shirt/</link>
+					<comments>http://phamnguyenducthanh.github.io/Myshop/product/ac-dc-who-made-who-t-shirt/#comments</comments>
+		
+		<dc:creator><![CDATA[Phạm Nguyễn Đức Thành]]></dc:creator>
+		<pubDate>Thu, 17 Jun 2021 06:49:37 +0000</pubDate>
+				<guid isPermaLink="false">http://phamnguyenducthanh.github.io/Myshop/?post_type=product&#038;p=140</guid>
+
+					<description><![CDATA[Brand : ACDC
+
+Xuất xứ : Mỹ
+
+Size: L : XL]]></description>
+										<content:encoded><![CDATA[<p>Chiếc áo được đặt tên dựa trên album Who Made Who của nhóm nhạc rock AC/DC . Với sự nam tính và đậm chất rock sẵn có , Who Made Who còn chứa đựng 1 ý nghĩa đặt biệt đối với người sở hữu.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>http://phamnguyenducthanh.github.io/Myshop/product/ac-dc-who-made-who-t-shirt/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

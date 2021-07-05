@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Comments on: ACDC Brand: Đậm chất Rock	</title>
+	<atom:link href="http://localhost/myproject/wordpress/acdc/feed/" rel="self" type="application/rss+xml" />
+	<link>http://phamnguyenducthanh.github.io/Myshop/acdc/</link>
+	<description>Một trang web mới sử dụng WordPress</description>
+	<lastBuildDate>Fri, 11 Jun 2021 05:12:05 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7.2</generator>
+	<item>
+		<title>
+		By: Phạm Nguyễn Đức Thành		</title>
+		<link>http://phamnguyenducthanh.github.io/Myshop/acdc/#comment-5</link>
+
+		<dc:creator><![CDATA[Phạm Nguyễn Đức Thành]]></dc:creator>
+		<pubDate>Fri, 11 Jun 2021 05:12:05 +0000</pubDate>
+		<guid isPermaLink="false">http://phamnguyenducthanh.github.io/Myshop/?p=91#comment-5</guid>
+
+					<description><![CDATA[This is my post. Thank for reading &lt;3]]></description>
+			<content:encoded><![CDATA[<p>This is my post. Thank for reading &lt;3</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>
